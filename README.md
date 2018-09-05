@@ -20,3 +20,6 @@ export AWS_SECRET_ACCESS_KEY=MYSECRETACCESSKEY
 ```
 packer build xenial.json
 ``` 
+For more info please check a following link:
+
+https://www.packer.io/intro/getting-started/build-image.html#some-more-examples-
